@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+.header {
+    text-align: center;
+    padding: 32px;
+    background-color:blue;
+    color:#f5f6f7;
+    margin: 0px;
+  }
+  body {
+    margin: 0px;
+    font-family: sans-serif;
+    background: #f5f6f7;
+    
+  }
+
+  .Gathecha{
+    font-size: 30px;
+  }
+  .Moringa{
+    font-size: 15px;
+  
+  }
+  .links{
+    background-color: rgba(0, 0, 0, 0.788);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    align-items: center;
+    background-blend-mode: darken;
+    background-size: cover;
+    color: white;
+    padding: 10px 20px;
+
+  }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+  }
+  .nav-list li {
+    margin-right: 20px;
+}
+.nav-list li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+}
+.papa{
+  border: 15px;
+  padding:15px;
+}
+footer {  
+  left: 0; 
+  z-index: 10;
+  bottom: 0px;
+}
+.cyro{
+  border:80px;
+  padding: 10px 20px;
+  position: sticky;
+}
