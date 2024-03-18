@@ -11,9 +11,12 @@
     margin: 0px;
   }
   body {
-    margin: 0px;
     font-family: sans-serif;
-    background:white;
+    background-image:url(/assets/image0_0.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    backdrop-filter: blur(8px);
     color: red;
     
   }
