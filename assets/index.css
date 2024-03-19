@@ -18,7 +18,7 @@
     background-size: contain;
     backdrop-filter: blur(8px);
     color: red;
-    
+    border: 20px solid;
   }
 
   .Gathecha{
